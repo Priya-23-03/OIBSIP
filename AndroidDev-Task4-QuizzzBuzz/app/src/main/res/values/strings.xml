@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quizzz Buzz</string>
+    <string name="tagline">Test your brain. Beat your score.</string>
+    <string name="start">Start Quiz</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="restart">Restart Quiz</string>
+    <string name="pick_answer">Please select an answer first</string>
+    <string name="question_counter">Question %1$d of %2$d</string>
+    <string name="score_format">Score: %1$d</string>
+    <string name="result_title">Quiz Complete!</string>
+    <string name="total_score">Total Score</string>
+    <string name="correct_count">Correct: %1$d</string>
+    <string name="incorrect_count">Incorrect: %1$d</string>
+</resources>
